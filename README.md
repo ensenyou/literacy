@@ -1,4 +1,4 @@
-I love .[Wikipedia](URL)!
+I love [Wikipedia](URL)!
 
 
 
