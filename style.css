@@ -1,10 +1,11 @@
 em{color:green;}
+
 th {
-color: white;
-background: orange;
+  color: white;
+  background: orange;
 }
 
-table,th,td{
+th,td{
   border: 1px solid black;
-  border-collapse: collapse;
 }
+table{border-collapse:collapse;}
